@@ -1,0 +1,19 @@
+.sign{
+    width: 30%;
+ }
+
+ .sign p {
+    padding-top: 25px;
+  
+ }
+ .sign a{
+    margin-top: 25px;
+ }
+
+ .table-reservation {
+    margin: auto;
+    padding-top: 50px;
+}
+
+.inline{display: flex;}
+
